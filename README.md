@@ -4,8 +4,8 @@
 
 ## 微信
 
-<img width="250" src="buy-me-a-coffee-wechat.png" />
+<img width="250" src="buy-me-a-coffee-wechat.jpg" />
 
 ## 支付宝
 
-<img width="250" src="buy-me-a-coffee-alipay.png" />
+<img width="250" src="buy-me-a-coffee-alipay.jpg" />
