@@ -2,6 +2,10 @@
 
 ## [PayPal](https://www.paypal.me/xcatliu/)
 
-![Buy Me a Coffee Wechat](buy-me-a-coffee-wechat.jpg)
+## 微信
 
-![Buy Me a Coffee Alipay](buy-me-a-coffee-alipay.jpg)
+<img width="250" src="buy-me-a-coffee-wechat.jpg" />
+
+## 支付宝
+
+<img width="250" src="buy-me-a-coffee-alipay.jpg" />
