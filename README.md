@@ -1,11 +1,9 @@
-# Buy me a coffee
+<table>
+  <tr>
+    <td><img width="256" src="wechat.jpg" /></td>
+    <td><img width="256" src="alipay.jpg" /></td>
+    <td><a href="https://www.paypal.me/xcatliu/">PayPal</a></td>
+  </tr>
+</table>
 
-## [PayPal](https://www.paypal.me/xcatliu/)
-
-## 微信
-
-<img width="250" src="buy-me-a-coffee-wechat.jpg" />
-
-## 支付宝
-
-<img width="250" src="buy-me-a-coffee-alipay.jpg" />
+- [Leave me a message](https://github.com/xcatliu/buy-me-a-coffee/issues/new)
