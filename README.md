@@ -1,8 +1,9 @@
+### [PayPal](https://www.paypal.me/xcatliu/)
+
 <table>
   <tr>
     <td><img width="256" src="wechat.jpg" /></td>
     <td><img width="256" src="alipay.jpg" /></td>
-    <td><a href="https://www.paypal.me/xcatliu/">PayPal</a></td>
   </tr>
 </table>
 
