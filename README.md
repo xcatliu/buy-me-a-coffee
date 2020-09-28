@@ -1,4 +1,4 @@
-### [PayPal](https://www.paypal.me/xcatliu/)
+## [PayPal](https://www.paypal.me/xcatliu/)
 
 <table>
   <tr>
