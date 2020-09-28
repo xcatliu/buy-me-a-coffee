@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><a href="https://www.paypal.me/xcatliu/"><img width="256" src="wechat.jpg" /></a></td>
+    <td><a href="https://www.paypal.me/xcatliu/"><img width="256" src="paypal.jpg" /></a></td>
     <td><img width="256" src="wechat.jpg" /></td>
     <td><img width="256" src="alipay.jpg" /></td>
   </tr>
